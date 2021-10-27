@@ -13,3 +13,6 @@ Lalu run programnya, maka akan muncul hasil seperti berikut
 ### Membuat program input biodata dan introducing
 buatlah code program seperti ini, save dengan ekstensi python
 ![Gambar 3](ss/3.png)
+
+Run programnya, maka akan muncul output seperti contoh berikut
+![Gambar 4](ss/4.png)
